@@ -1,0 +1,2 @@
+Copy your per-sample image subfolders here. See README.txt for the expected
+folder/filename layout.
